@@ -1,5 +1,6 @@
 fgpoliciestocsv
 ===============
+-Changed encoding to UTF-8 to work with our FW solution, original author decided to change the CLI argument instead which didn't suit my needs hence, I will retain this repo.
 
 Description
 -----------
