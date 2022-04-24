@@ -1,6 +1,6 @@
 fgpoliciestocsv
 ===============
--Changed encoding to UTF-8 to work with our FW solution, original author decided to change the CLI argument instead which didn't suit my needs hence, I will retain this repo.
+-Changed encoding to UTF-8 to work with our FW solution, original author decided to change the CLI argument instead which didn't suit my needs hence the reason why this repo still exists. I suspect the reason this happened is because the original repo was meant for python2 rather than python3 and the error was being thrown by the changes made to python3.
 
 Description
 -----------
